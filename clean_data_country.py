@@ -77,10 +77,12 @@ country_stats['Country_Name'] = country_stats['NOC'].map(noc_to_name)
 # 处理奖牌表的映射匹配
 team_to_noc = {aggressive_clean(k): v for k, v in athletes.groupby('Team')['NOC'].first().to_dict().items()}
 manual_overrides = {
-    'United States': 'USA', 'Soviet Union': 'URS', 'Great Britain': 'GBR',
+    #'United States': 'USA', 'Soviet Union': 'URS', 'Great Britain': 'GBR',
     'West Germany': 'FRG', 'East Germany': 'GDR', 'Russian Empire': 'RUS',
     'Russia': 'RUS', 'China': 'CHN', 'South Korea': 'KOR', 'Chinese Taipei': 'TPE',
-    'ROC': 'RUS', 'Unified Team': 'RUS', 'Netherlands': 'NED'
+    'ROC': 'RUS', 'Unified Team': 'RUS', 'Netherlands': 'NED',
+     'Formosa': 'TPE',            # <--- 新增这行，强制指回 TPE
+    'Republic of China': 'TPE'   # <--- 以防万一，加上这个
 }
 team_to_noc.update(manual_overrides)
 

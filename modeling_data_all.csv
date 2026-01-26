@@ -563,7 +563,7 @@ Year,Era,NOC,Country_Name,Is_Host,Athlete_Count,Sports_Participated_Count,Events
 1960,Formation,NOR,Norway,0,40,11,39,340.0,1.0,1.0,0.006578947368421052,0.0021691973969631237
 1960,Formation,POR,Portugal,0,65,11,52,340.0,0.0,1.0,0.0,0.0021691973969631237
 1960,Formation,SGP,Singapore,0,5,3,3,340.0,0.0,1.0,0.0,0.0021691973969631237
-1960,Formation,USA,United States,0,289,17,147,340.0,0.0,1.0,0.0,0.0021691973969631237
+1960,Formation,TPE,Chinese Taipei,0,27,6,18,340.0,0.0,1.0,0.0,0.0021691973969631237
 1960,Formation,VEN,Venezuela,0,36,9,26,340.0,0.0,1.0,0.0,0.0021691973969631237
 1960,Formation,AFG,Afghanistan,0,12,2,13,340.0,0.0,0.0,0.0,0.0
 1960,Formation,AHO,Netherlands Antilles,0,5,1,4,340.0,0.0,0.0,0.0,0.0
@@ -601,7 +601,6 @@ Year,Era,NOC,Country_Name,Is_Host,Athlete_Count,Sports_Participated_Count,Events
 1960,Formation,SRI,Sri Lanka,0,5,4,5,340.0,0.0,0.0,0.0,0.0
 1960,Formation,SUD,Sudan,0,10,4,10,340.0,0.0,0.0,0.0,0.0
 1960,Formation,THA,Thailand,0,20,4,16,340.0,0.0,0.0,0.0,0.0
-1960,Formation,TPE,Chinese Taipei,0,27,6,18,340.0,0.0,0.0,0.0,0.0
 1960,Formation,TUN,Tunisia,0,42,7,22,340.0,0.0,0.0,0.0,0.0
 1960,Formation,UAR,United Arab Republic,0,74,12,34,340.0,0.0,0.0,0.0,0.0
 1960,Formation,UGA,Uganda,0,10,2,11,340.0,0.0,0.0,0.0,0.0

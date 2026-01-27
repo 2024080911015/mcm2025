@@ -1,54 +1,61 @@
 import pandas as pd
 
 
-def generate_gold_progress_analysis(pred_file, hist_file, output_file):
+def generate_total_medal_progress_analysis(pred_file, hist_file, output_file):
     # 1. 加载数据
-    # prediction_2028_final_with_CI.csv: 包含 2028 年的预测数据
     df_pred = pd.read_csv(pred_file)
-    # modeling_data_maturity.csv: 包含历史数据，我们需要从中提取 2024 年的实际结果
     df_hist = pd.read_csv(hist_file)
 
-    # 2. 提取 2024 年实际金牌数
-    # 筛选 Year 为 2024 的数据
-    df_2024 = df_hist[df_hist['Year'] == 2024][['NOC', 'Country_Name', 'Gold']].copy()
-    # 重命名列以区分年份
-    df_2024 = df_2024.rename(columns={'Gold': 'Gold_2024'})
+    # --- 关键修改点 1: 提取 2024 年【总奖牌数】 ---
+    # 假设历史数据中总奖牌列名为 'Total_Medals'
+    df_2024 = df_hist[df_hist['Year'] == 2024][['NOC', 'Country_Name', 'Total_Medals']].copy()
+    df_2024 = df_2024.rename(columns={'Total_Medals': 'Total_2024'})
 
-    # 3. 提取 2028 年预测金牌数
-    df_2028 = df_pred[['NOC', 'Predicted_Gold']].copy()
-    # 重命名列
-    df_2028 = df_2028.rename(columns={'Predicted_Gold': 'Predicted_Gold_2028'})
+    # --- 关键修改点 2: 提取 2028 年【预测总奖牌数】 ---
+    # 请检查你的预测文件，确认预测值的列名是 'Predicted_Total_Medals' 还是 'Predicted_Mean' 或其他
+    # 这里假设你之前的预测结果列名为 'Predicted_Total_Medals'
+    # 如果你的预测文件里列名是 'Predicted_Value' 或 'mean'，请在这里修改
+    col_name_in_pred = 'Predicted_Total_Medals'
+
+    # 检查列是否存在，防止报错
+    if col_name_in_pred not in df_pred.columns:
+        # 尝试自动寻找可能的列名
+        candidates = ['Predicted_Total_Medals', 'Predicted_Medals', 'predicted_mean', 'mean']
+        for c in candidates:
+            if c in df_pred.columns:
+                col_name_in_pred = c
+                break
+
+    print(f"使用的预测列名为: {col_name_in_pred}")
+
+    df_2028 = df_pred[['NOC', col_name_in_pred]].copy()
+    df_2028 = df_2028.rename(columns={col_name_in_pred: 'Predicted_Total_2028'})
 
     # 4. 合并数据
-    # 使用 inner join 确保只分析在两年都存在数据的国家
     merged = pd.merge(df_2024, df_2028, on='NOC', how='inner')
 
     # 5. 计算变化值 (Delta)
-    # Delta = 2028预测值 - 2024实际值
-    merged['Delta'] = merged['Predicted_Gold_2028'] - merged['Gold_2024']
+    merged['Delta'] = merged['Predicted_Total_2028'] - merged['Total_2024']
 
-    # 6. 排序
-    # 按照变化值降序排列：进步最大的在最前面，退步最大的在最后面
+    # 6. 排序 (进步最大的在前面)
     final_df = merged.sort_values('Delta', ascending=False)
 
     # 7. 整理列顺序
-    # 只保留关键列，使 CSV 更整洁
-    final_df = final_df[['NOC', 'Country_Name', 'Gold_2024', 'Predicted_Gold_2028', 'Delta']]
+    final_df = final_df[['NOC', 'Country_Name', 'Total_2024', 'Predicted_Total_2028', 'Delta']]
 
     # 8. 保存为 CSV 文件
-    final_df.to_csv(output_file, index=False, encoding='utf-8-sig')  # 使用 utf-8-sig 以防中文乱码
+    final_df.to_csv(output_file, index=False, encoding='utf-8-sig')
 
     print(f"分析完成！文件已保存为: {output_file}")
-    print("前5名进步国家 (金牌):")
+    print("\n前5名进步国家 (总奖牌):")
     print(final_df.head())
-    print("\n前5名退步国家 (金牌):")
+    print("\n前5名退步国家 (总奖牌):")
     print(final_df.tail())
 
 
 # --- 执行函数 ---
-# 请确保当前目录下有这两个输入文件
-generate_gold_progress_analysis(
+generate_total_medal_progress_analysis(
     pred_file='prediction_2028_final_with_CI.csv',
     hist_file='modeling_data_maturity.csv',
-    output_file='gold_medal_progress_regress.csv'
+    output_file='total_medal_progress_regress.csv'
 )

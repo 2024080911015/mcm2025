@@ -31,20 +31,22 @@ def visualize_olympic_error_bars_dual_labels(file_path):
     fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(16, 8))
 
     # --- 左图：金牌 ---
-    ax1.barh(plot_df['Country_Name'], plot_df['Predicted_Gold'], color='#D4AF37', alpha=0.8)
-    ax1.errorbar(plot_df['Predicted_Gold'], plot_df['Country_Name'],
+    ax1.barh(plot_df['NOC'], plot_df['Predicted_Gold'], color='#FFB84D', alpha=0.85, edgecolor='#E67E22', linewidth=1)
+    ax1.errorbar(plot_df['Predicted_Gold'], plot_df['NOC'],
                  xerr=[plot_df['gold_err_l'], plot_df['gold_err_r']],
-                 fmt='none', ecolor='#333333', capsize=3, elinewidth=1.2)
-    ax1.set_xlabel('Predicted Gold Medals')
-    ax1.grid(axis='x', linestyle=':', alpha=0.6)
+                 fmt='none', ecolor='#8B4513', capsize=4, elinewidth=1.5, capthick=1.5)
+    ax1.set_xlabel('Predicted Gold Medals', fontsize=12, fontweight='bold')
+    ax1.grid(axis='x', linestyle='--', alpha=0.4)
+    ax1.set_ylabel('Country Code', fontsize=12, fontweight='bold')
 
     # --- 右图：总奖牌 ---
-    ax2.barh(plot_df['Country_Name'], plot_df['Predicted_Total_Medals'], color='#2E8B57', alpha=0.8)
-    ax2.errorbar(plot_df['Predicted_Total_Medals'], plot_df['Country_Name'],
+    ax2.barh(plot_df['NOC'], plot_df['Predicted_Total_Medals'], color='#5DADE2', alpha=0.85, edgecolor='#2874A6', linewidth=1)
+    ax2.errorbar(plot_df['Predicted_Total_Medals'], plot_df['NOC'],
                  xerr=[plot_df['total_err_l'], plot_df['total_err_r']],
-                 fmt='none', ecolor='#333333', capsize=3, elinewidth=1.2)
-    ax2.set_xlabel('Predicted Total Medals')
-    ax2.grid(axis='x', linestyle=':', alpha=0.6)
+                 fmt='none', ecolor='#154360', capsize=4, elinewidth=1.5, capthick=1.5)
+    ax2.set_xlabel('Predicted Total Medals', fontsize=12, fontweight='bold')
+    ax2.grid(axis='x', linestyle='--', alpha=0.4)
+    ax2.set_ylabel('Country Code', fontsize=12, fontweight='bold')
 
     plt.tight_layout()
     plt.savefig('olympic_chart_with_dual_labels.png', dpi=300)

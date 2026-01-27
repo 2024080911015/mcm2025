@@ -1,0 +1,734 @@
+﻿Year,Era,NOC,Country_Name,Is_Host,Athlete_Count,Sports_Participated_Count,Events_Participated_Count,Global_Total_Events,Gold,Total_Medals,Gold_Share,Medal_Share,Lagged_Total_Medals
+1988,Formation,ASA,American Samoa,0,6,4,6,528.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,ASA,American Samoa,0,3,2,3,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,ASA,American Samoa,0,7,5,6,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,ASA,American Samoa,0,4,3,4,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,ASA,American Samoa,0,3,2,3,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,ASA,American Samoa,0,4,3,4,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,ASA,American Samoa,0,4,3,4,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,ASA,American Samoa,0,4,3,4,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,ASA,American Samoa,0,6,4,5,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,ASA,American Samoa,0,2,2,2,738.0,0.0,0.0,0.0,0.0,0.0
+1976,Formation,AND,Andorra,0,3,2,2,444.0,0.0,0.0,0.0,0.0,0.0
+1980,Formation,AND,Andorra,0,2,1,1,454.0,0.0,0.0,0.0,0.0,0.0
+1984,Formation,AND,Andorra,0,2,1,1,492.0,0.0,0.0,0.0,0.0,0.0
+1988,Formation,AND,Andorra,0,3,2,3,528.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,AND,Andorra,0,8,5,5,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,AND,Andorra,0,8,5,7,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,AND,Andorra,0,5,3,5,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,AND,Andorra,0,6,4,6,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,AND,Andorra,0,5,4,5,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,AND,Andorra,0,6,4,6,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,AND,Andorra,0,4,4,4,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,AND,Andorra,0,2,2,3,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,AND,Andorra,0,2,2,4,738.0,0.0,0.0,0.0,0.0,0.0
+1980,Formation,ANG,Angola,0,11,3,14,454.0,0.0,0.0,0.0,0.0,0.0
+1988,Formation,ANG,Angola,0,24,4,27,528.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,ANG,Angola,0,28,6,21,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,ANG,Angola,0,28,5,8,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,ANG,Angola,0,30,5,7,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,ANG,Angola,0,30,5,5,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,ANG,Angola,0,32,6,8,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,ANG,Angola,0,33,6,10,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,ANG,Angola,0,26,7,10,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,ANG,Angola,0,20,5,6,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,ANG,Angola,0,25,7,10,738.0,0.0,0.0,0.0,0.0,0.0
+1976,Formation,ANT,Antigua and Barbuda,0,10,2,11,444.0,0.0,0.0,0.0,0.0,0.0
+1984,Formation,ANT,Antigua and Barbuda,0,14,3,17,492.0,0.0,0.0,0.0,0.0,0.0
+1988,Formation,ANT,Antigua and Barbuda,0,15,4,19,528.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,ANT,Antigua and Barbuda,0,13,3,15,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,ANT,Antigua and Barbuda,0,13,4,9,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,ANT,Antigua and Barbuda,0,3,2,4,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,ANT,Antigua and Barbuda,0,5,2,5,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,ANT,Antigua and Barbuda,0,5,2,5,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,ANT,Antigua and Barbuda,0,4,2,4,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,ANT,Antigua and Barbuda,0,8,2,5,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,ANT,Antigua and Barbuda,0,6,4,6,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,ANT,Antigua and Barbuda,0,5,3,5,738.0,0.0,0.0,0.0,0.0,0.0
+1988,Formation,ARU,Aruba,0,8,5,10,528.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,ARU,Aruba,0,5,3,4,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,ARU,Aruba,0,3,3,3,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,ARU,Aruba,0,5,3,5,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,ARU,Aruba,0,4,3,4,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,ARU,Aruba,0,2,2,2,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,ARU,Aruba,0,4,3,4,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,ARU,Aruba,0,7,4,6,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,ARU,Aruba,0,3,2,4,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,ARU,Aruba,0,6,4,7,738.0,0.0,0.0,0.0,0.0,0.0
+1984,Formation,BAN,Bangladesh,0,1,1,2,492.0,0.0,0.0,0.0,0.0,0.0
+1988,Formation,BAN,Bangladesh,0,6,2,8,528.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,BAN,Bangladesh,0,6,3,6,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,BAN,Bangladesh,0,4,3,4,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,BAN,Bangladesh,0,5,3,6,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,BAN,Bangladesh,0,4,3,4,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,BAN,Bangladesh,0,5,3,5,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,BAN,Bangladesh,0,5,5,7,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,BAN,Bangladesh,0,6,5,7,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,BAN,Bangladesh,0,6,4,7,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,BAN,Bangladesh,0,5,4,5,738.0,0.0,0.0,0.0,0.0,0.0
+1968,Formation,BIZ,Belize,0,7,4,6,386.0,0.0,0.0,0.0,0.0,0.0
+1972,Formation,BIZ,Belize,0,1,1,2,439.0,0.0,0.0,0.0,0.0,0.0
+1976,Formation,BIZ,Belize,0,4,2,4,444.0,0.0,0.0,0.0,0.0,0.0
+1984,Formation,BIZ,Belize,0,11,3,7,492.0,0.0,0.0,0.0,0.0,0.0
+1988,Formation,BIZ,Belize,0,10,2,7,528.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,BIZ,Belize,0,10,2,10,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,BIZ,Belize,0,5,2,5,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,BIZ,Belize,0,2,1,2,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,BIZ,Belize,0,2,1,2,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,BIZ,Belize,0,4,2,4,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,BIZ,Belize,0,3,2,3,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,BIZ,Belize,0,3,2,3,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,BIZ,Belize,0,3,2,4,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,BIZ,Belize,0,1,1,1,738.0,0.0,0.0,0.0,0.0,0.0
+1972,Formation,BEN,Benin,0,3,2,3,439.0,0.0,0.0,0.0,0.0,0.0
+1980,Formation,BEN,Benin,0,16,2,17,454.0,0.0,0.0,0.0,0.0,0.0
+1984,Formation,BEN,Benin,0,3,1,3,492.0,0.0,0.0,0.0,0.0,0.0
+1988,Formation,BEN,Benin,0,7,2,7,528.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,BEN,Benin,0,6,2,6,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,BEN,Benin,0,5,1,4,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,BEN,Benin,0,4,3,4,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,BEN,Benin,0,4,2,4,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,BEN,Benin,0,5,3,5,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,BEN,Benin,0,5,4,5,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,BEN,Benin,0,6,4,6,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,BEN,Benin,0,7,4,7,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,BEN,Benin,0,5,3,5,738.0,0.0,0.0,0.0,0.0,0.0
+1984,Formation,BHU,Bhutan,0,6,1,2,492.0,0.0,0.0,0.0,0.0,0.0
+1988,Formation,BHU,Bhutan,0,3,1,2,528.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,BHU,Bhutan,0,6,1,4,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,BHU,Bhutan,0,2,1,2,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,BHU,Bhutan,0,2,1,2,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,BHU,Bhutan,0,2,1,2,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,BHU,Bhutan,0,2,1,2,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,BHU,Bhutan,0,2,2,2,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,BHU,Bhutan,0,2,2,2,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,BHU,Bhutan,0,4,4,4,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,BHU,Bhutan,0,3,3,3,738.0,0.0,0.0,0.0,0.0,0.0
+1936,Early,BOL,Bolivia,0,2,2,2,302.0,0.0,0.0,0.0,0.0,0.0
+1964,Formation,BOL,Bolivia,0,1,1,1,370.0,0.0,0.0,0.0,0.0,0.0
+1968,Formation,BOL,Bolivia,0,4,3,3,386.0,0.0,0.0,0.0,0.0,0.0
+1972,Formation,BOL,Bolivia,0,11,3,9,439.0,0.0,0.0,0.0,0.0,0.0
+1976,Formation,BOL,Bolivia,0,4,4,5,444.0,0.0,0.0,0.0,0.0,0.0
+1984,Formation,BOL,Bolivia,0,11,6,11,492.0,0.0,0.0,0.0,0.0,0.0
+1988,Formation,BOL,Bolivia,0,7,6,12,528.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,BOL,Bolivia,0,13,6,18,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,BOL,Bolivia,0,8,5,9,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,BOL,Bolivia,0,5,3,5,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,BOL,Bolivia,0,7,5,11,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,BOL,Bolivia,0,7,5,7,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,BOL,Bolivia,0,5,3,5,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,BOL,Bolivia,0,12,5,10,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,BOL,Bolivia,0,5,3,5,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,BOL,Bolivia,0,4,2,4,738.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,BIH,Bosnia and Herzegovina,0,10,6,13,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,BIH,Bosnia and Herzegovina,0,9,7,12,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,BIH,Bosnia and Herzegovina,0,9,4,10,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,BIH,Bosnia and Herzegovina,0,9,8,11,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,BIH,Bosnia and Herzegovina,0,5,4,7,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,BIH,Bosnia and Herzegovina,0,6,4,8,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,BIH,Bosnia and Herzegovina,0,11,5,8,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,BIH,Bosnia and Herzegovina,0,7,5,8,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,BIH,Bosnia and Herzegovina,0,5,3,6,738.0,0.0,0.0,0.0,0.0,0.0
+1984,Formation,IVB,British Virgin Islands,0,9,2,7,492.0,0.0,0.0,0.0,0.0,0.0
+1988,Formation,IVB,British Virgin Islands,0,3,2,4,528.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,IVB,British Virgin Islands,0,4,2,2,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,IVB,British Virgin Islands,0,7,2,5,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,IVB,British Virgin Islands,0,1,1,1,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,IVB,British Virgin Islands,0,1,1,1,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,IVB,British Virgin Islands,0,2,1,2,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,IVB,British Virgin Islands,0,2,1,2,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,IVB,British Virgin Islands,0,4,2,4,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,IVB,British Virgin Islands,0,3,2,3,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,IVB,British Virgin Islands,0,4,2,4,738.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,BRU,Brunei,0,1,1,1,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,BRU,Brunei,0,2,2,2,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,BRU,Brunei,0,1,1,1,669.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,BRU,Brunei,0,3,2,3,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,BRU,Brunei,0,3,2,3,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,BRU,Brunei,0,2,2,2,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,BRU,Brunei,0,3,2,3,738.0,0.0,0.0,0.0,0.0,0.0
+1956,Formation,CAM,Cambodia,0,2,1,1,342.0,0.0,0.0,0.0,0.0,0.0
+1964,Formation,CAM,Cambodia,0,13,3,10,370.0,0.0,0.0,0.0,0.0,0.0
+1972,Formation,CAM,Cambodia,0,9,3,14,439.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,CAM,Cambodia,0,5,3,5,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,CAM,Cambodia,0,4,2,4,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,CAM,Cambodia,0,4,2,4,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,CAM,Cambodia,0,4,2,4,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,CAM,Cambodia,0,6,4,6,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,CAM,Cambodia,0,6,4,6,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,CAM,Cambodia,0,3,2,3,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,CAM,Cambodia,0,3,2,3,738.0,0.0,0.0,0.0,0.0,0.0
+1976,Formation,CAY,Cayman Islands,0,2,1,1,444.0,0.0,0.0,0.0,0.0,0.0
+1984,Formation,CAY,Cayman Islands,0,8,2,7,492.0,0.0,0.0,0.0,0.0,0.0
+1988,Formation,CAY,Cayman Islands,0,8,2,7,528.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,CAY,Cayman Islands,0,10,3,7,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,CAY,Cayman Islands,0,9,3,7,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,CAY,Cayman Islands,0,3,2,4,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,CAY,Cayman Islands,0,5,2,8,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,CAY,Cayman Islands,0,4,2,6,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,CAY,Cayman Islands,0,4,2,5,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,CAY,Cayman Islands,0,5,3,5,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,CAY,Cayman Islands,0,5,3,9,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,CAY,Cayman Islands,0,4,3,5,738.0,0.0,0.0,0.0,0.0,0.0
+1968,Formation,CAF,Central African Republic,0,1,1,1,386.0,0.0,0.0,0.0,0.0,0.0
+1984,Formation,CAF,Central African Republic,0,3,2,3,492.0,0.0,0.0,0.0,0.0,0.0
+1988,Formation,CAF,Central African Republic,0,15,3,4,528.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,CAF,Central African Republic,0,15,3,16,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,CAF,Central African Republic,0,5,1,5,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,CAF,Central African Republic,0,3,2,3,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,CAF,Central African Republic,0,4,3,4,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,CAF,Central African Republic,0,3,2,3,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,CAF,Central African Republic,0,6,4,6,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,CAF,Central African Republic,0,6,4,6,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,CAF,Central African Republic,0,2,2,2,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,CAF,Central African Republic,0,4,3,4,738.0,0.0,0.0,0.0,0.0,0.0
+1964,Formation,CHA,Chad,0,2,1,2,370.0,0.0,0.0,0.0,0.0,0.0
+1968,Formation,CHA,Chad,0,3,1,3,386.0,0.0,0.0,0.0,0.0,0.0
+1972,Formation,CHA,Chad,0,4,2,4,439.0,0.0,0.0,0.0,0.0,0.0
+1984,Formation,CHA,Chad,0,3,1,3,492.0,0.0,0.0,0.0,0.0,0.0
+1988,Formation,CHA,Chad,0,6,1,6,528.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,CHA,Chad,0,6,2,7,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,CHA,Chad,0,4,1,4,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,CHA,Chad,0,2,1,3,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,CHA,Chad,0,1,1,1,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,CHA,Chad,0,2,1,2,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,CHA,Chad,0,2,2,2,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,CHA,Chad,0,2,1,2,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,CHA,Chad,0,3,3,3,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,CHA,Chad,0,3,3,3,738.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,COM,Comoros,0,4,1,4,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,COM,Comoros,0,2,1,2,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,COM,Comoros,0,3,2,3,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,COM,Comoros,0,3,2,3,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,COM,Comoros,0,3,2,3,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,COM,Comoros,0,4,2,4,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,COM,Comoros,0,3,2,3,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,COM,Comoros,0,4,3,5,738.0,0.0,0.0,0.0,0.0,0.0
+1964,Formation,CGO,Congo (Brazzaville),0,2,1,2,370.0,0.0,0.0,0.0,0.0,0.0
+1972,Formation,CGO,Congo (Brazzaville),0,6,1,5,439.0,0.0,0.0,0.0,0.0,0.0
+1980,Formation,CGO,Congo (Brazzaville),0,23,3,8,454.0,0.0,0.0,0.0,0.0,0.0
+1984,Formation,CGO,Congo (Brazzaville),0,9,2,10,492.0,0.0,0.0,0.0,0.0,0.0
+1988,Formation,CGO,Congo (Brazzaville),0,7,1,7,528.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,CGO,Congo (Brazzaville),0,7,2,7,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,CGO,Congo (Brazzaville),0,5,3,5,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,CGO,Congo (Brazzaville),0,5,3,5,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,CGO,Congo (Brazzaville),0,5,4,5,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,CGO,Congo (Brazzaville),0,5,3,5,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,CGO,Congo (Brazzaville),0,7,3,6,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,CGO,Congo (Brazzaville),0,10,5,9,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,CGO,Congo (Brazzaville),0,3,2,3,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,CGO,Congo (Brazzaville),0,4,3,4,738.0,0.0,0.0,0.0,0.0,0.0
+1968,Formation,COD,Congo (Kinshasa),0,5,1,2,386.0,0.0,0.0,0.0,0.0,0.0
+1984,Formation,COD,Congo (Kinshasa),0,8,2,9,492.0,0.0,0.0,0.0,0.0,0.0
+1988,Formation,COD,Congo (Kinshasa),0,15,3,15,528.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,COD,Congo (Kinshasa),0,17,4,14,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,COD,Congo (Kinshasa),0,14,2,2,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,COD,Congo (Kinshasa),0,2,1,3,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,COD,Congo (Kinshasa),0,4,2,4,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,COD,Congo (Kinshasa),0,5,4,5,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,COD,Congo (Kinshasa),0,4,3,4,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,COD,Congo (Kinshasa),0,4,3,4,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,COD,Congo (Kinshasa),0,7,4,7,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,COD,Congo (Kinshasa),0,6,4,6,738.0,0.0,0.0,0.0,0.0,0.0
+1988,Formation,COK,Cook Islands,0,7,3,8,528.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,COK,Cook Islands,0,2,2,2,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,COK,Cook Islands,0,3,3,3,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,COK,Cook Islands,0,2,2,2,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,COK,Cook Islands,0,3,2,3,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,COK,Cook Islands,0,4,3,4,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,COK,Cook Islands,0,8,5,9,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,COK,Cook Islands,0,9,5,9,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,COK,Cook Islands,0,6,4,9,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,COK,Cook Islands,0,2,2,2,738.0,0.0,0.0,0.0,0.0,0.0
+1932,Early,ESA,El Salvador,0,1,1,1,268.0,0.0,0.0,0.0,0.0,0.0
+1968,Formation,ESA,El Salvador,0,60,7,48,386.0,0.0,0.0,0.0,0.0,0.0
+1972,Formation,ESA,El Salvador,0,11,2,12,439.0,0.0,0.0,0.0,0.0,0.0
+1984,Formation,ESA,El Salvador,0,10,5,15,492.0,0.0,0.0,0.0,0.0,0.0
+1988,Formation,ESA,El Salvador,0,6,4,7,528.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,ESA,El Salvador,0,4,3,6,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,ESA,El Salvador,0,8,5,10,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,ESA,El Salvador,0,8,7,10,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,ESA,El Salvador,0,7,6,9,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,ESA,El Salvador,0,11,9,14,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,ESA,El Salvador,0,10,7,11,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,ESA,El Salvador,0,8,6,10,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,ESA,El Salvador,0,5,4,7,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,ESA,El Salvador,0,8,7,9,738.0,0.0,0.0,0.0,0.0,0.0
+1984,Formation,GEQ,Equatorial Guinea,0,4,1,5,492.0,0.0,0.0,0.0,0.0,0.0
+1988,Formation,GEQ,Equatorial Guinea,0,6,1,7,528.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,GEQ,Equatorial Guinea,0,7,1,8,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,GEQ,Equatorial Guinea,0,5,1,5,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,GEQ,Equatorial Guinea,0,4,2,4,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,GEQ,Equatorial Guinea,0,2,1,2,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,GEQ,Equatorial Guinea,0,3,2,3,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,GEQ,Equatorial Guinea,0,2,1,2,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,GEQ,Equatorial Guinea,0,1,1,1,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,GEQ,Equatorial Guinea,0,3,2,3,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,GEQ,Equatorial Guinea,0,3,2,3,738.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,FSM,Federated States of Micronesia,0,5,3,5,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,FSM,Federated States of Micronesia,0,5,3,5,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,FSM,Federated States of Micronesia,0,5,3,5,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,FSM,Federated States of Micronesia,0,6,4,6,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,FSM,Federated States of Micronesia,0,5,3,5,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,FSM,Federated States of Micronesia,0,3,2,3,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,FSM,Federated States of Micronesia,0,3,2,3,738.0,0.0,0.0,0.0,0.0,0.0
+1984,Formation,GAM,Gambia,0,10,1,9,492.0,0.0,0.0,0.0,0.0,0.0
+1988,Formation,GAM,Gambia,0,6,2,6,528.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,GAM,Gambia,0,5,1,5,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,GAM,Gambia,0,9,1,6,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,GAM,Gambia,0,2,1,2,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,GAM,Gambia,0,2,1,3,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,GAM,Gambia,0,3,2,3,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,GAM,Gambia,0,2,1,2,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,GAM,Gambia,0,4,3,4,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,GAM,Gambia,0,4,3,5,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,GAM,Gambia,0,7,4,8,738.0,0.0,0.0,0.0,0.0,0.0
+1988,Formation,GUM,Guam,0,19,7,22,528.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,GUM,Guam,0,22,8,27,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,GUM,Guam,0,8,4,9,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,GUM,Guam,0,7,5,7,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,GUM,Guam,0,4,3,4,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,GUM,Guam,0,6,5,7,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,GUM,Guam,0,8,5,8,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,GUM,Guam,0,5,3,5,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,GUM,Guam,0,5,4,5,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,GUM,Guam,0,7,6,9,738.0,0.0,0.0,0.0,0.0,0.0
+1968,Formation,GUI,Guinea,0,14,1,1,386.0,0.0,0.0,0.0,0.0,0.0
+1980,Formation,GUI,Guinea,0,9,3,10,454.0,0.0,0.0,0.0,0.0,0.0
+1984,Formation,GUI,Guinea,0,1,1,1,492.0,0.0,0.0,0.0,0.0,0.0
+1988,Formation,GUI,Guinea,0,6,3,7,528.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,GUI,Guinea,0,8,2,11,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,GUI,Guinea,0,5,2,5,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,GUI,Guinea,0,6,4,6,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,GUI,Guinea,0,3,3,4,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,GUI,Guinea,0,5,3,5,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,GUI,Guinea,0,4,3,4,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,GUI,Guinea,0,5,3,5,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,GUI,Guinea,0,5,4,5,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,GUI,Guinea,0,25,5,7,738.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,GBS,Guinea Bissau,0,3,2,3,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,GBS,Guinea Bissau,0,3,2,3,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,GBS,Guinea Bissau,0,3,2,3,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,GBS,Guinea Bissau,0,3,2,3,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,GBS,Guinea Bissau,0,4,2,4,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,GBS,Guinea Bissau,0,5,3,5,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,GBS,Guinea Bissau,0,4,3,4,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,GBS,Guinea Bissau,0,6,5,6,738.0,0.0,0.0,0.0,0.0,0.0
+1968,Formation,HON,Honduras,0,6,1,4,386.0,0.0,0.0,0.0,0.0,0.0
+1976,Formation,HON,Honduras,0,3,1,2,444.0,0.0,0.0,0.0,0.0,0.0
+1984,Formation,HON,Honduras,0,10,3,20,492.0,0.0,0.0,0.0,0.0,0.0
+1988,Formation,HON,Honduras,0,8,3,15,528.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,HON,Honduras,0,10,4,25,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,HON,Honduras,0,7,4,7,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,HON,Honduras,0,20,3,4,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,HON,Honduras,0,5,4,5,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,HON,Honduras,0,25,5,8,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,HON,Honduras,0,25,8,10,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,HON,Honduras,0,23,7,8,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,HON,Honduras,0,27,5,7,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,HON,Honduras,0,4,3,4,738.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,KIR,Kiribati,0,3,2,3,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,KIR,Kiribati,0,2,2,2,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,KIR,Kiribati,0,3,2,3,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,KIR,Kiribati,0,3,2,3,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,KIR,Kiribati,0,3,3,3,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,KIR,Kiribati,0,3,3,3,738.0,0.0,0.0,0.0,0.0,0.0
+1980,Formation,LAO,Laos,0,19,3,16,454.0,0.0,0.0,0.0,0.0,0.0
+1988,Formation,LAO,Laos,0,3,2,3,528.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,LAO,Laos,0,6,2,7,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,LAO,Laos,0,5,1,2,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,LAO,Laos,0,3,2,3,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,LAO,Laos,0,5,3,5,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,LAO,Laos,0,4,2,4,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,LAO,Laos,0,3,2,3,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,LAO,Laos,0,5,4,5,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,LAO,Laos,0,4,3,4,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,LAO,Laos,0,4,3,4,738.0,0.0,0.0,0.0,0.0,0.0
+1972,Formation,LES,Lesotho,0,1,1,2,439.0,0.0,0.0,0.0,0.0,0.0
+1980,Formation,LES,Lesotho,0,5,1,6,454.0,0.0,0.0,0.0,0.0,0.0
+1984,Formation,LES,Lesotho,0,4,2,4,492.0,0.0,0.0,0.0,0.0,0.0
+1988,Formation,LES,Lesotho,0,6,2,5,528.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,LES,Lesotho,0,6,1,8,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,LES,Lesotho,0,9,1,5,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,LES,Lesotho,0,6,3,6,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,LES,Lesotho,0,3,2,3,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,LES,Lesotho,0,5,2,3,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,LES,Lesotho,0,4,2,4,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,LES,Lesotho,0,8,3,8,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,LES,Lesotho,0,2,1,2,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,LES,Lesotho,0,3,2,3,738.0,0.0,0.0,0.0,0.0,0.0
+1956,Formation,LBR,Liberia,0,4,1,6,342.0,0.0,0.0,0.0,0.0,0.0
+1960,Formation,LBR,Liberia,0,4,1,5,340.0,0.0,0.0,0.0,0.0,0.0
+1964,Formation,LBR,Liberia,0,1,1,2,370.0,0.0,0.0,0.0,0.0,0.0
+1972,Formation,LBR,Liberia,0,5,1,5,439.0,0.0,0.0,0.0,0.0,0.0
+1984,Formation,LBR,Liberia,0,7,1,7,492.0,0.0,0.0,0.0,0.0,0.0
+1988,Formation,LBR,Liberia,0,8,2,10,528.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,LBR,Liberia,0,5,1,3,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,LBR,Liberia,0,8,1,7,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,LBR,Liberia,0,2,1,2,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,LBR,Liberia,0,3,1,4,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,LBR,Liberia,0,3,1,3,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,LBR,Liberia,0,2,1,3,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,LBR,Liberia,0,3,1,3,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,LBR,Liberia,0,8,1,5,738.0,0.0,0.0,0.0,0.0,0.0
+1968,Formation,LBA,Libya,0,1,1,1,386.0,0.0,0.0,0.0,0.0,0.0
+1980,Formation,LBA,Libya,0,29,5,20,454.0,0.0,0.0,0.0,0.0,0.0
+1988,Formation,LBA,Libya,0,6,3,5,528.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,LBA,Libya,0,5,4,5,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,LBA,Libya,0,5,2,5,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,LBA,Libya,0,3,3,3,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,LBA,Libya,0,8,5,8,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,LBA,Libya,0,6,4,6,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,LBA,Libya,0,4,3,4,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,LBA,Libya,0,7,6,7,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,LBA,Libya,0,4,4,4,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,LBA,Libya,0,6,5,6,738.0,0.0,0.0,0.0,0.0,0.0
+1936,Early,LIE,Liechtenstein,0,6,3,5,302.0,0.0,0.0,0.0,0.0,0.0
+1948,Formation,LIE,Liechtenstein,0,2,1,1,312.0,0.0,0.0,0.0,0.0,0.0
+1952,Formation,LIE,Liechtenstein,0,2,1,1,338.0,0.0,0.0,0.0,0.0,0.0
+1960,Formation,LIE,Liechtenstein,0,5,3,6,340.0,0.0,0.0,0.0,0.0,0.0
+1964,Formation,LIE,Liechtenstein,0,2,1,3,370.0,0.0,0.0,0.0,0.0,0.0
+1968,Formation,LIE,Liechtenstein,0,2,1,3,386.0,0.0,0.0,0.0,0.0,0.0
+1972,Formation,LIE,Liechtenstein,0,6,4,11,439.0,0.0,0.0,0.0,0.0,0.0
+1976,Formation,LIE,Liechtenstein,0,6,2,9,444.0,0.0,0.0,0.0,0.0,0.0
+1984,Formation,LIE,Liechtenstein,0,7,3,7,492.0,0.0,0.0,0.0,0.0,0.0
+1988,Formation,LIE,Liechtenstein,0,12,5,15,528.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,LIE,Liechtenstein,0,7,4,8,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,LIE,Liechtenstein,0,2,2,2,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,LIE,Liechtenstein,0,2,2,2,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,LIE,Liechtenstein,0,1,1,1,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,LIE,Liechtenstein,0,2,2,2,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,LIE,Liechtenstein,0,3,3,4,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,LIE,Liechtenstein,0,3,2,3,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,LIE,Liechtenstein,0,5,3,8,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,LIE,Liechtenstein,0,1,1,1,738.0,0.0,0.0,0.0,0.0,0.0
+1964,Formation,MAD,Madagascar,0,3,1,4,370.0,0.0,0.0,0.0,0.0,0.0
+1968,Formation,MAD,Madagascar,0,4,2,6,386.0,0.0,0.0,0.0,0.0,0.0
+1972,Formation,MAD,Madagascar,0,11,2,10,439.0,0.0,0.0,0.0,0.0,0.0
+1980,Formation,MAD,Madagascar,0,11,4,18,454.0,0.0,0.0,0.0,0.0,0.0
+1984,Formation,MAD,Madagascar,0,5,2,5,492.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,MAD,Madagascar,0,13,6,15,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,MAD,Madagascar,0,11,4,10,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,MAD,Madagascar,0,11,4,10,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,MAD,Madagascar,0,8,5,8,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,MAD,Madagascar,0,6,4,6,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,MAD,Madagascar,0,7,5,7,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,MAD,Madagascar,0,6,4,6,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,MAD,Madagascar,0,6,4,6,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,MAD,Madagascar,0,7,5,7,738.0,0.0,0.0,0.0,0.0,0.0
+1972,Formation,MAW,Malawi,0,16,3,17,439.0,0.0,0.0,0.0,0.0,0.0
+1984,Formation,MAW,Malawi,0,15,3,16,492.0,0.0,0.0,0.0,0.0,0.0
+1988,Formation,MAW,Malawi,0,16,3,16,528.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,MAW,Malawi,0,4,1,4,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,MAW,Malawi,0,2,1,2,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,MAW,Malawi,0,2,1,2,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,MAW,Malawi,0,4,2,4,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,MAW,Malawi,0,4,2,4,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,MAW,Malawi,0,3,2,3,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,MAW,Malawi,0,5,3,5,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,MAW,Malawi,0,5,4,5,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,MAW,Malawi,0,3,2,3,738.0,0.0,0.0,0.0,0.0,0.0
+1988,Formation,MDV,Maldives,0,7,1,5,528.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,MDV,Maldives,0,7,2,8,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,MDV,Maldives,0,6,2,6,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,MDV,Maldives,0,4,2,4,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,MDV,Maldives,0,4,2,4,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,MDV,Maldives,0,4,2,4,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,MDV,Maldives,0,5,3,5,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,MDV,Maldives,0,4,2,4,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,MDV,Maldives,0,4,3,4,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,MDV,Maldives,0,5,4,4,738.0,0.0,0.0,0.0,0.0,0.0
+1964,Formation,MLI,Mali,0,2,1,2,370.0,0.0,0.0,0.0,0.0,0.0
+1968,Formation,MLI,Mali,0,2,2,2,386.0,0.0,0.0,0.0,0.0,0.0
+1972,Formation,MLI,Mali,0,3,2,3,439.0,0.0,0.0,0.0,0.0,0.0
+1980,Formation,MLI,Mali,0,7,3,7,454.0,0.0,0.0,0.0,0.0,0.0
+1984,Formation,MLI,Mali,0,4,3,5,492.0,0.0,0.0,0.0,0.0,0.0
+1988,Formation,MLI,Mali,0,6,3,8,528.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,MLI,Mali,0,5,2,6,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,MLI,Mali,0,3,1,4,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,MLI,Mali,0,5,3,5,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,MLI,Mali,0,21,4,6,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,MLI,Mali,0,17,4,6,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,MLI,Mali,0,6,4,6,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,MLI,Mali,0,6,4,6,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,MLI,Mali,0,4,3,4,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,MLI,Mali,0,24,5,6,738.0,0.0,0.0,0.0,0.0,0.0
+1928,Early,MLT,Malta,0,9,1,1,252.0,0.0,0.0,0.0,0.0,0.0
+1936,Early,MLT,Malta,0,11,2,2,302.0,0.0,0.0,0.0,0.0,0.0
+1948,Formation,MLT,Malta,0,1,1,1,312.0,0.0,0.0,0.0,0.0,0.0
+1960,Formation,MLT,Malta,0,10,4,6,340.0,0.0,0.0,0.0,0.0,0.0
+1968,Formation,MLT,Malta,0,1,1,1,386.0,0.0,0.0,0.0,0.0,0.0
+1972,Formation,MLT,Malta,0,5,2,2,439.0,0.0,0.0,0.0,0.0,0.0
+1980,Formation,MLT,Malta,0,8,3,5,454.0,0.0,0.0,0.0,0.0,0.0
+1984,Formation,MLT,Malta,0,7,5,6,492.0,0.0,0.0,0.0,0.0,0.0
+1988,Formation,MLT,Malta,0,6,4,6,528.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,MLT,Malta,0,6,4,8,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,MLT,Malta,0,7,5,10,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,MLT,Malta,0,7,5,7,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,MLT,Malta,0,7,5,7,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,MLT,Malta,0,6,4,6,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,MLT,Malta,0,5,3,5,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,MLT,Malta,0,7,4,8,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,MLT,Malta,0,6,5,8,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,MLT,Malta,0,5,4,5,738.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,MHL,Marshall Islands,0,5,3,5,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,MHL,Marshall Islands,0,4,2,4,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,MHL,Marshall Islands,0,5,3,5,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,MHL,Marshall Islands,0,2,1,2,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,MHL,Marshall Islands,0,4,3,4,738.0,0.0,0.0,0.0,0.0,0.0
+1984,Formation,MTN,Mauritania,0,2,1,2,492.0,0.0,0.0,0.0,0.0,0.0
+1988,Formation,MTN,Mauritania,0,6,2,7,528.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,MTN,Mauritania,0,6,1,6,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,MTN,Mauritania,0,4,1,4,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,MTN,Mauritania,0,2,1,2,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,MTN,Mauritania,0,2,1,2,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,MTN,Mauritania,0,2,1,2,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,MTN,Mauritania,0,2,1,2,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,MTN,Mauritania,0,2,1,2,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,MTN,Mauritania,0,2,1,2,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,MTN,Mauritania,0,2,2,2,738.0,0.0,0.0,0.0,0.0,0.0
+1920,Early,MON,Monaco,0,4,2,6,363.0,0.0,0.0,0.0,0.0,0.0
+1924,Early,MON,Monaco,0,7,4,6,292.0,0.0,0.0,0.0,0.0,0.0
+1928,Early,MON,Monaco,0,10,4,8,252.0,0.0,0.0,0.0,0.0,0.0
+1932,Early,MON,Monaco,0,1,1,1,268.0,0.0,0.0,0.0,0.0,0.0
+1936,Early,MON,Monaco,0,8,2,5,302.0,0.0,0.0,0.0,0.0,0.0
+1948,Formation,MON,Monaco,0,4,1,2,312.0,0.0,0.0,0.0,0.0,0.0
+1952,Formation,MON,Monaco,0,8,2,6,338.0,0.0,0.0,0.0,0.0,0.0
+1960,Formation,MON,Monaco,0,11,3,6,340.0,0.0,0.0,0.0,0.0,0.0
+1964,Formation,MON,Monaco,0,1,1,1,370.0,0.0,0.0,0.0,0.0,0.0
+1968,Formation,MON,Monaco,0,2,1,1,386.0,0.0,0.0,0.0,0.0,0.0
+1972,Formation,MON,Monaco,0,5,2,4,439.0,0.0,0.0,0.0,0.0,0.0
+1976,Formation,MON,Monaco,0,8,3,6,444.0,0.0,0.0,0.0,0.0,0.0
+1984,Formation,MON,Monaco,0,8,5,7,492.0,0.0,0.0,0.0,0.0,0.0
+1988,Formation,MON,Monaco,0,9,7,9,528.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,MON,Monaco,0,2,2,4,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,MON,Monaco,0,3,3,4,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,MON,Monaco,0,4,4,4,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,MON,Monaco,0,3,3,3,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,MON,Monaco,0,5,5,5,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,MON,Monaco,0,6,6,6,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,MON,Monaco,0,3,3,8,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,MON,Monaco,0,6,5,6,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,MON,Monaco,0,6,6,6,738.0,0.0,0.0,0.0,0.0,0.0
+1948,Formation,MYA,Myanmar,0,4,3,5,312.0,0.0,0.0,0.0,0.0,0.0
+1952,Formation,MYA,Myanmar,0,5,2,5,338.0,0.0,0.0,0.0,0.0,0.0
+1956,Formation,MYA,Myanmar,0,11,4,11,342.0,0.0,0.0,0.0,0.0,0.0
+1960,Formation,MYA,Myanmar,0,10,5,9,340.0,0.0,0.0,0.0,0.0,0.0
+1964,Formation,MYA,Myanmar,0,11,5,11,370.0,0.0,0.0,0.0,0.0,0.0
+1968,Formation,MYA,Myanmar,0,4,2,3,386.0,0.0,0.0,0.0,0.0,0.0
+1972,Formation,MYA,Myanmar,0,17,4,7,439.0,0.0,0.0,0.0,0.0,0.0
+1980,Formation,MYA,Myanmar,0,2,2,2,454.0,0.0,0.0,0.0,0.0,0.0
+1984,Formation,MYA,Myanmar,0,1,1,1,492.0,0.0,0.0,0.0,0.0,0.0
+1988,Formation,MYA,Myanmar,0,2,1,3,528.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,MYA,Myanmar,0,4,2,5,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,MYA,Myanmar,0,3,2,3,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,MYA,Myanmar,0,6,4,7,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,MYA,Myanmar,0,2,2,2,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,MYA,Myanmar,0,6,5,7,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,MYA,Myanmar,0,6,5,6,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,MYA,Myanmar,0,7,5,8,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,MYA,Myanmar,0,2,2,2,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,MYA,Myanmar,0,2,2,2,738.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,NRU,Nauru,0,3,1,3,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,NRU,Nauru,0,2,1,2,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,NRU,Nauru,0,3,1,3,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,NRU,Nauru,0,1,1,1,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,NRU,Nauru,0,2,2,2,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,NRU,Nauru,0,2,2,2,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,NRU,Nauru,0,2,2,2,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,NRU,Nauru,0,1,1,1,738.0,0.0,0.0,0.0,0.0,0.0
+1964,Formation,NEP,Nepal,0,6,2,5,370.0,0.0,0.0,0.0,0.0,0.0
+1972,Formation,NEP,Nepal,0,2,1,1,439.0,0.0,0.0,0.0,0.0,0.0
+1976,Formation,NEP,Nepal,0,1,1,1,444.0,0.0,0.0,0.0,0.0,0.0
+1980,Formation,NEP,Nepal,0,10,3,9,454.0,0.0,0.0,0.0,0.0,0.0
+1984,Formation,NEP,Nepal,0,10,3,8,492.0,0.0,0.0,0.0,0.0,0.0
+1988,Formation,NEP,Nepal,0,16,5,17,528.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,NEP,Nepal,0,2,2,2,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,NEP,Nepal,0,6,4,6,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,NEP,Nepal,0,5,3,5,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,NEP,Nepal,0,6,4,6,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,NEP,Nepal,0,8,6,8,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,NEP,Nepal,0,5,3,5,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,NEP,Nepal,0,7,5,7,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,NEP,Nepal,0,5,4,5,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,NEP,Nepal,0,7,6,6,738.0,0.0,0.0,0.0,0.0,0.0
+1968,Formation,NCA,Nicaragua,0,11,3,15,386.0,0.0,0.0,0.0,0.0,0.0
+1972,Formation,NCA,Nicaragua,0,8,3,10,439.0,0.0,0.0,0.0,0.0,0.0
+1976,Formation,NCA,Nicaragua,0,15,6,19,444.0,0.0,0.0,0.0,0.0,0.0
+1980,Formation,NCA,Nicaragua,0,5,3,6,454.0,0.0,0.0,0.0,0.0,0.0
+1984,Formation,NCA,Nicaragua,0,5,2,5,492.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,NCA,Nicaragua,0,8,6,9,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,NCA,Nicaragua,0,25,5,9,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,NCA,Nicaragua,0,6,5,6,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,NCA,Nicaragua,0,5,3,6,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,NCA,Nicaragua,0,6,4,7,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,NCA,Nicaragua,0,6,4,6,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,NCA,Nicaragua,0,5,4,5,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,NCA,Nicaragua,0,8,6,8,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,NCA,Nicaragua,0,7,6,7,738.0,0.0,0.0,0.0,0.0,0.0
+1984,Formation,OMA,Oman,0,15,3,14,492.0,0.0,0.0,0.0,0.0,0.0
+1988,Formation,OMA,Oman,0,8,3,9,528.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,OMA,Oman,0,5,2,5,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,OMA,Oman,0,4,4,5,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,OMA,Oman,0,6,3,5,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,OMA,Oman,0,2,2,2,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,OMA,Oman,0,4,3,4,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,OMA,Oman,0,3,2,3,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,OMA,Oman,0,4,2,4,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,OMA,Oman,0,4,4,5,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,OMA,Oman,0,4,3,4,738.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,PLW,Palau,0,5,3,5,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,PLW,Palau,0,4,3,4,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,PLW,Palau,0,5,3,5,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,PLW,Palau,0,5,4,5,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,PLW,Palau,0,5,4,6,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,PLW,Palau,0,3,2,3,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,PLW,Palau,0,3,2,3,738.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,PLE,Palestine,0,1,1,1,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,PLE,Palestine,0,2,2,2,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,PLE,Palestine,0,3,2,3,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,PLE,Palestine,0,4,2,4,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,PLE,Palestine,0,5,3,5,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,PLE,Palestine,0,6,4,6,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,PLE,Palestine,0,5,4,5,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,PLE,Palestine,0,8,6,8,738.0,0.0,0.0,0.0,0.0,0.0
+1976,Formation,PNG,Papua New Guinea,0,6,3,8,444.0,0.0,0.0,0.0,0.0,0.0
+1984,Formation,PNG,Papua New Guinea,0,7,2,12,492.0,0.0,0.0,0.0,0.0,0.0
+1988,Formation,PNG,Papua New Guinea,0,11,4,15,528.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,PNG,Papua New Guinea,0,13,4,16,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,PNG,Papua New Guinea,0,11,3,11,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,PNG,Papua New Guinea,0,5,3,5,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,PNG,Papua New Guinea,0,4,3,6,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,PNG,Papua New Guinea,0,7,5,9,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,PNG,Papua New Guinea,0,8,5,8,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,PNG,Papua New Guinea,0,8,6,8,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,PNG,Papua New Guinea,0,8,5,8,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,PNG,Papua New Guinea,0,7,5,7,738.0,0.0,0.0,0.0,0.0,0.0
+1984,Formation,RWA,Rwanda,0,3,1,6,492.0,0.0,0.0,0.0,0.0,0.0
+1988,Formation,RWA,Rwanda,0,6,1,7,528.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,RWA,Rwanda,0,10,2,8,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,RWA,Rwanda,0,4,1,4,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,RWA,Rwanda,0,5,2,5,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,RWA,Rwanda,0,5,2,5,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,RWA,Rwanda,0,4,2,4,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,RWA,Rwanda,0,7,4,7,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,RWA,Rwanda,0,7,3,7,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,RWA,Rwanda,0,5,3,5,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,RWA,Rwanda,0,7,4,8,738.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,SKN,Saint Kitts and Nevis,0,10,1,5,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,SKN,Saint Kitts and Nevis,0,2,1,4,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,SKN,Saint Kitts and Nevis,0,2,1,2,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,SKN,Saint Kitts and Nevis,0,4,1,5,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,SKN,Saint Kitts and Nevis,0,4,1,3,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,SKN,Saint Kitts and Nevis,0,6,1,4,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,SKN,Saint Kitts and Nevis,0,2,1,2,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,SKN,Saint Kitts and Nevis,0,3,2,3,738.0,0.0,0.0,0.0,0.0,0.0
+1988,Formation,VIN,Saint Vincent and the Grenadines,0,6,1,6,528.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,VIN,Saint Vincent and the Grenadines,0,6,1,5,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,VIN,Saint Vincent and the Grenadines,0,8,1,6,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,VIN,Saint Vincent and the Grenadines,0,4,2,4,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,VIN,Saint Vincent and the Grenadines,0,3,2,3,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,VIN,Saint Vincent and the Grenadines,0,2,1,2,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,VIN,Saint Vincent and the Grenadines,0,3,2,3,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,VIN,Saint Vincent and the Grenadines,0,4,2,4,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,VIN,Saint Vincent and the Grenadines,0,3,2,3,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,VIN,Saint Vincent and the Grenadines,0,4,2,4,738.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,STP,Sao Tome and Principe,0,2,1,2,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,STP,Sao Tome and Principe,0,2,1,2,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,STP,Sao Tome and Principe,0,2,1,2,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,STP,Sao Tome and Principe,0,3,2,4,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,STP,Sao Tome and Principe,0,2,1,2,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,STP,Sao Tome and Principe,0,3,2,3,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,STP,Sao Tome and Principe,0,3,2,3,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,STP,Sao Tome and Principe,0,3,3,3,738.0,0.0,0.0,0.0,0.0,0.0
+1980,Formation,SEY,Seychelles,0,11,2,15,454.0,0.0,0.0,0.0,0.0,0.0
+1984,Formation,SEY,Seychelles,0,9,2,15,492.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,SEY,Seychelles,0,11,4,18,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,SEY,Seychelles,0,9,5,9,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,SEY,Seychelles,0,9,5,9,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,SEY,Seychelles,0,9,7,10,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,SEY,Seychelles,0,9,6,9,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,SEY,Seychelles,0,6,4,6,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,SEY,Seychelles,0,10,6,10,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,SEY,Seychelles,0,5,4,6,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,SEY,Seychelles,0,3,2,3,738.0,0.0,0.0,0.0,0.0,0.0
+1968,Formation,SLE,Sierra Leone,0,3,2,4,386.0,0.0,0.0,0.0,0.0,0.0
+1980,Formation,SLE,Sierra Leone,0,14,2,16,454.0,0.0,0.0,0.0,0.0,0.0
+1984,Formation,SLE,Sierra Leone,0,7,2,6,492.0,0.0,0.0,0.0,0.0,0.0
+1988,Formation,SLE,Sierra Leone,0,12,4,14,528.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,SLE,Sierra Leone,0,11,1,12,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,SLE,Sierra Leone,0,14,3,10,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,SLE,Sierra Leone,0,3,2,3,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,SLE,Sierra Leone,0,2,1,2,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,SLE,Sierra Leone,0,3,2,3,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,SLE,Sierra Leone,0,2,1,2,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,SLE,Sierra Leone,0,4,2,4,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,SLE,Sierra Leone,0,4,3,4,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,SLE,Sierra Leone,0,4,3,4,738.0,0.0,0.0,0.0,0.0,0.0
+1984,Formation,SOL,Solomon Islands,0,3,2,3,492.0,0.0,0.0,0.0,0.0,0.0
+1988,Formation,SOL,Solomon Islands,0,4,4,5,528.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,SOL,Solomon Islands,0,1,1,1,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,SOL,Solomon Islands,0,4,2,4,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,SOL,Solomon Islands,0,2,1,2,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,SOL,Solomon Islands,0,2,1,2,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,SOL,Solomon Islands,0,3,2,3,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,SOL,Solomon Islands,0,4,3,4,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,SOL,Solomon Islands,0,3,2,3,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,SOL,Solomon Islands,0,3,3,3,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,SOL,Solomon Islands,0,2,2,2,738.0,0.0,0.0,0.0,0.0,0.0
+1972,Formation,SOM,Somalia,0,3,1,4,439.0,0.0,0.0,0.0,0.0,0.0
+1984,Formation,SOM,Somalia,0,7,1,6,492.0,0.0,0.0,0.0,0.0,0.0
+1988,Formation,SOM,Somalia,0,5,1,4,528.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,SOM,Somalia,0,4,1,4,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,SOM,Somalia,0,2,1,2,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,SOM,Somalia,0,2,1,2,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,SOM,Somalia,0,2,1,2,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,SOM,Somalia,0,2,1,2,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,SOM,Somalia,0,2,1,2,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,SOM,Somalia,0,2,2,2,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,SOM,Somalia,0,1,1,1,738.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,SSD,South Sudan,0,3,1,3,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,SSD,South Sudan,0,2,1,2,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,SSD,South Sudan,0,14,2,3,738.0,0.0,0.0,0.0,0.0,0.0
+1972,Formation,SWZ,Swaziland,0,2,2,4,439.0,0.0,0.0,0.0,0.0,0.0
+1984,Formation,SWZ,Swaziland,0,8,4,11,492.0,0.0,0.0,0.0,0.0,0.0
+1988,Formation,SWZ,Swaziland,0,11,4,11,528.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,SWZ,Swaziland,0,6,2,10,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,SWZ,Swaziland,0,6,3,5,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,SWZ,Swaziland,0,6,4,6,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,SWZ,Swaziland,0,3,2,3,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,SWZ,Swaziland,0,4,2,4,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,SWZ,Swaziland,0,3,2,3,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,SWZ,Swaziland,0,2,1,2,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,SWZ,Swaziland,0,4,3,4,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,SWZ,Swaziland,0,3,2,3,738.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,TLS,Timor Leste,0,2,1,2,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,TLS,Timor Leste,0,1,1,1,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,TLS,Timor Leste,0,2,1,2,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,TLS,Timor Leste,0,3,2,3,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,TLS,Timor Leste,0,3,2,3,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,TLS,Timor Leste,0,4,3,4,738.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,TUV,Tuvalu,0,3,2,3,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,TUV,Tuvalu,0,3,2,3,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,TUV,Tuvalu,0,1,1,1,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,TUV,Tuvalu,0,2,1,2,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,TUV,Tuvalu,0,2,1,2,738.0,0.0,0.0,0.0,0.0,0.0
+1988,Formation,VAN,Vanuatu,0,4,2,6,528.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,VAN,Vanuatu,0,6,1,8,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,VAN,Vanuatu,0,4,1,4,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,VAN,Vanuatu,0,3,2,3,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,VAN,Vanuatu,0,2,1,2,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,VAN,Vanuatu,0,3,2,3,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,VAN,Vanuatu,0,5,3,5,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,VAN,Vanuatu,0,4,4,4,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,VAN,Vanuatu,0,3,3,3,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,VAN,Vanuatu,0,6,5,6,738.0,0.0,0.0,0.0,0.0,0.0
+1992,Maturity,YEM,Yemen,0,8,2,8,573.0,0.0,0.0,0.0,0.0,0.0
+1996,Maturity,YEM,Yemen,0,4,2,4,604.0,0.0,0.0,0.0,0.0,0.0
+2000,Maturity,YEM,Yemen,0,2,1,2,667.0,0.0,0.0,0.0,0.0,0.0
+2004,Maturity,YEM,Yemen,0,3,3,3,669.0,0.0,0.0,0.0,0.0,0.0
+2008,Maturity,YEM,Yemen,0,5,4,8,673.0,0.0,0.0,0.0,0.0,0.0
+2012,Maturity,YEM,Yemen,0,4,3,4,670.0,0.0,0.0,0.0,0.0,0.0
+2016,Maturity,YEM,Yemen,0,3,3,3,682.0,0.0,0.0,0.0,0.0,0.0
+2020,Maturity,YEM,Yemen,0,5,4,6,761.0,0.0,0.0,0.0,0.0,0.0
+2024,Maturity,YEM,Yemen,0,4,4,4,738.0,0.0,0.0,0.0,0.0,0.0

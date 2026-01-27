@@ -1,0 +1,7 @@
+﻿Coach,Sport,Target_Year,Benchmark_Year,Country,Pred_Share,Real_Share,Effect_Delta,Medals_Won
+Bela Karolyi,Gymnastics,1984,1976,USA,0.0,0.4706,0.4706,8
+Dave Brailsford,Cycling,2008,2004,GBR,0.0741,0.2593,0.1852,14
+Lang Ping (USA),Volleyball,2008,2004,USA,0.0,0.3333,0.3333,1
+Lang Ping (CHN),Volleyball,2016,2012,CHN,0.0,0.3333,0.3333,1
+Kosei Inoue,Judo,2016,2012,JPN,0.1429,0.25,0.1071,7
+Jurgen Grobler,Rowing,2020,2016,GBR,0.119,0.0476,-0.0714,2

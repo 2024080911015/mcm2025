@@ -18,8 +18,9 @@ def predict_medal_once(Athletes, Events, Is_Host, Lagged_Share, Sigma):
     if Events <= 0: Events = 1
 
     # 计算基础得分（固定部分）
-    base_score = -0.067612 + 0.014247 * np.log(Athletes) + 0.002205 * np.log(Events) + \
-                 0.078906 * Is_Host + 0.501635 * Lagged_Share
+    base_score = -0.06674 + 0.01406  * np.log(Athletes) + 0.00216  * np.log(Events) + \
+            0.07876 * Is_Host + 0.51280  * Lagged_Share
+
 
     # 生成单次随机扰动
     random_shock = np.random.normal(loc=0, scale=Sigma)
@@ -32,8 +33,11 @@ def predict_gold_once(Athletes, Events, Is_Host, Lagged_Share, Sigma):
     if Athletes <= 0: Athletes = 1
     if Events <= 0: Events = 1
 
-    base_score = -0.109768 + 0.020919 * np.log(Athletes) + 0.002084 * np.log(Events) + \
-                 0.082456 * Is_Host + 0.608438 * Lagged_Share
+    base_score =  -0.10724 + \
+            0.02033 * np.log(Athletes) + \
+            0.00210 * np.log(Events) + \
+            0.08233  * Is_Host + \
+            0.62531 * Lagged_Share
 
     random_shock = np.random.normal(loc=0, scale=Sigma)
     return base_score + random_shock
@@ -58,8 +62,8 @@ print(df_2028[df_2028['NOC'] == 'USA'][['NOC', 'Is_Host']])
 # 4. 执行预测 (带置信区间，关键修改：归一化)
 # ==========================================
 # 关键修改：不再对每个国家独立模拟，而是在每次模拟中同时预测所有国家，然后归一化
-SIGMA_MEDAL = 0.02729
-SIGMA_GOLD = 0.03676
+SIGMA_MEDAL = 0.02700
+SIGMA_GOLD =  0.03600
 N_SIMS = 10000  # 模拟次数
 
 total_medals_pool = df['Total_Medals'].sum()
@@ -142,14 +146,14 @@ for index, row in df_2028.iterrows():
     # 金牌
     pred_gold = np.mean(gold_sim_array)
     pred_gold_share = pred_gold / total_gold_pool  # 从数量反推份额
-    gold_lower = np.percentile(gold_sim_array, 47.5)
-    gold_upper = np.percentile(gold_sim_array, 52.5)
+    gold_lower = np.percentile(gold_sim_array, 2.5)
+    gold_upper = np.percentile(gold_sim_array, 97.5)
 
     # 总奖牌
     pred_total = np.mean(medal_sim_array)
     pred_medal_share = pred_total / total_medals_pool  # 从数量反推份额
-    total_lower = np.percentile(medal_sim_array, 47.5)
-    total_upper = np.percentile(medal_sim_array, 52.5)
+    total_lower = np.percentile(medal_sim_array, 2.5)
+    total_upper = np.percentile(medal_sim_array, 97.5)
 
     # 4. 存入结果 (保持与 prediction2028.py 相同的列顺序，并在末尾添加置信区间)
     results_list.append({

@@ -18,9 +18,9 @@ def predict_medal(Athletes, Events, Is_Host, Lagged_Share, Sigma):
     if Athletes <= 0: Athletes = 1
     if Events <= 0: Events = 1
 
-    score = -0.067612 + 0.014247 * np.log(Athletes) + 0.002205 * np.log(Events) + \
-            0.078906 * Is_Host + 0.501635 * Lagged_Share + \
-            np.random.normal(loc=0, scale=0.02729 )
+    score = -0.06674 + 0.01406  * np.log(Athletes) + 0.00216  * np.log(Events) + \
+            0.07876 * Is_Host + 0.51280  * Lagged_Share + \
+            np.random.normal(loc=0, scale=0.02700 )
     return max(0, score)
 
 
@@ -28,12 +28,12 @@ def predict_gold(Athletes, Events, Is_Host, Lagged_Share, Sigma):
     if Athletes <= 0: Athletes = 1
     if Events <= 0: Events = 1
 
-    score = -0.109768 + \
-            0.020919 * np.log(Athletes) + \
-            0.002084 * np.log(Events) + \
-            0.082456 * Is_Host + \
-            0.608438 * Lagged_Share + \
-            np.random.normal(loc=0, scale=0.03676)
+    score = -0.10724 + \
+            0.02033 * np.log(Athletes) + \
+            0.00210 * np.log(Events) + \
+            0.08233  * Is_Host + \
+            0.62531 * Lagged_Share + \
+            np.random.normal(loc=0, scale=0.03600 )
     return max(0, score)
 
 

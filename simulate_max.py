@@ -149,9 +149,9 @@ def load_and_prep_data_advanced():
         print("错误: 找不到 CSV 文件。请确保 modeling_data_*.csv 在当前目录。")
         return None
 
-    df_early['weight'] = 0.5722
-    df_formation['weight'] = 0.6822
-    df_maturity['weight'] = 1.0
+    df_early['weight'] = 0.2538
+    df_formation['weight'] = 0.3026
+    df_maturity['weight'] = 0.4435
 
     full_df = pd.concat([df_early, df_formation, df_maturity], ignore_index=True)
     full_df = full_df.sort_values(by=['NOC', 'Year'])

@@ -3,7 +3,7 @@ from pyecharts import options as opts
 from pyecharts.charts import Map, Page
 
 # 1. 读取数据
-file_path = "prediction_2028_final.csv"
+file_path = "prediction_2028_final_with_CI.csv"
 df = pd.read_csv(file_path)
 
 # 2. 数据预处理
@@ -56,7 +56,7 @@ map_total = (
         ],
         # --------------------------------
         visualmap_opts=opts.VisualMapOpts(
-            max_=200,
+            max_=120,
             min_=0,
             is_piecewise=False,
             range_color=["#E0F3F8", "#4575B4", "#D73027"],
@@ -104,7 +104,7 @@ map_gold = (
         ],
         # --------------------------------
         visualmap_opts=opts.VisualMapOpts(
-            max_=70,
+            max_=50,
             min_=0,
             is_piecewise=False,
             range_color=["#FFFDE7", "#FDD835", "#F57F17"],

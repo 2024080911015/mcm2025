@@ -322,7 +322,11 @@ def run_all_fit_predict_mc():
         p_pos = float(np.mean(delta_sim > 0))  # P(Delta > 0)
         p_neg = float(np.mean(delta_sim < 0))  # P(Delta < 0)
         delta_ci = (float(np.percentile(delta_sim, 2.5)), float(np.percentile(delta_sim, 97.5)))
+        delta_point = real - pred_mean
 
+        # ===== 新增指标：delta/(MIT-delta) = (real - pred) / pred =====
+        denom = pred_mean  # MIT - delta = pred
+        delta_ratio = (delta_point / denom) if denom > 1e-12 else np.nan
         results.append({
             "Sport": sp,
             "Year": year,
@@ -330,6 +334,7 @@ def run_all_fit_predict_mc():
             "Real_MIT_Total": round(real, 4),
             "Pred_MIT_Total": round(pred_mean, 4),
             "Delta_MIT_Total": round(real - pred_mean, 4),
+            "Increase_Percent": round(delta_ratio, 4),
             "Pred_95_CI": f"[{pred_ci[0]:.4f}, {pred_ci[1]:.4f}]",
             "Delta_95_CI": f"[{delta_ci[0]:.4f}, {delta_ci[1]:.4f}]",
             "Pr_Delta_Pos": round(p_pos, 4),
